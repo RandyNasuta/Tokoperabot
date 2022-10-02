@@ -1,6 +1,13 @@
 # tokoperabot
 
-Tokoperabot adalah project mobile application sederhana yang saya buat untuk menyelesaikan submission pada pelatihan Multi-Platform App yang diadakan oleh Dicoding menggunakan framework Flutter. Berikut beberapa tampilan dari aplikasi Tokoperabot
+Tokoperabot adalah project mobile application sederhana yang saya buat untuk menyelesaikan submission pada pelatihan Multi-Platform App yang diadakan oleh Dicoding menggunakan framework Flutter. Berikut beberapa tampilan dari aplikasi Tokoperabot.
+
+<br>
+
+Showcase aplikasi:
+https://youtu.be/e_aVcXUXsTk
+
+<br>
 
 1. Halaman registrasi dan login
 
