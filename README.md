@@ -2,16 +2,16 @@
 
 TokoPerabot adalah projek aplikasi seluler sederhana yang saya kembangkan untuk menyelesaikan penugasan pada pelatihan Multi-Platform App yang diadakan oleh Dicoding menggunakan framework Flutter.
 
-<br>
+# Showcase aplikasi:
+https://youtu.be/e_aVcXUXsTk
+
 
 # Rating TokoPerabot dari hasil review Dicoding Indonesia
 ![tokoperabot rating 2](https://user-images.githubusercontent.com/94217153/197528784-bf3f2bd9-66e0-4cb7-a3aa-d948d7df51fa.png)
 
-<br>
 
-Showcase aplikasi:
-https://youtu.be/e_aVcXUXsTk
 
+# Tampilan halaman
 <br>
 
 1. Halaman registrasi dan login
