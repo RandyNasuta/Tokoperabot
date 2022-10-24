@@ -4,6 +4,11 @@ TokoPerabot adalah projek aplikasi seluler sederhana yang saya kembangkan untuk 
 
 <br>
 
+# Rating TokoPerabot dari hasil review Dicoding Indonesia
+![tokoperabot rating 2](https://user-images.githubusercontent.com/94217153/197528386-4172fb7f-b093-4b59-bcba-67ca6b6ee7a5.png)
+
+<br>
+
 Showcase aplikasi:
 https://youtu.be/e_aVcXUXsTk
 
